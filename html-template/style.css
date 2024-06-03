@@ -1,0 +1,1689 @@
+*
+{
+margin: 0 auto;
+padding: 0 ;
+font-family: "Poppins", sans-serif;
+font-style: normal;
+}
+/* first page starts */
+.container
+{
+    width: 99.5%;
+    height: 2266px;
+}
+/* gifts heading*/
+.Gifts
+{
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 6%;
+    font-size: 28PX;
+    font-weight: 700;
+    text-align: center;
+}
+/*menubar style*/
+.menubar
+{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-left: 42px;
+    margin-right: 10px;
+    width: 93.8%;
+    height: 54px;  
+    background-color: #f9ece6;
+}
+.navbar
+{
+    font-weight: 400;
+    font-size: 16px;
+    width: 68%;
+    height: 45px;  
+    padding: 0;
+    background-color:  #f9ece6;  
+}
+ul
+ {
+    list-style-type: none;
+    margin-left: 44px;
+    margin-right: 60px;
+    overflow: hidden;
+}
+li 
+{
+    float: left; 
+}
+li a
+{
+    display:block;
+    border-style: none;
+    padding: 4px;
+    padding-right:24px;
+    padding-left: 26px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+} 
+.login
+{
+    margin-left: 20px;
+}
+.active
+{
+  background-color:white;
+}
+.banner1
+{
+    margin-left: 42px;
+    width: 93.8%;
+    height: 709px;  
+    background-color: #f89cab;  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+p , h1
+{
+color: white;
+}
+.content
+{
+    width: 60%;
+    height: 705px; 
+    float: left  
+}
+.contbox
+{
+    margin-left: 12px;
+    margin-top:25.3% ;   
+    width: 98%;
+    height: 350px;
+}
+
+.welcome
+{
+    line-height:67px; 
+    width: 80%;
+    height: 139px;
+    margin-left: 73px;
+    font-size: 28px;
+    font-weight: 800;   
+    color: white;
+}  
+.after
+{
+    width: 85%;
+    height: 100px; 
+    margin-left: 73px;
+    margin-top:5px ;
+    text-align: left;
+    line-height:24px;
+    font-size: 16px;
+    font-weight: 400;
+}  
+/*picture*/
+.image
+{
+    width: 35%;
+    height: 705px;
+    margin-right: 57px;
+    margin-top: 1.5px;
+    background-position:center;
+    background-image: url(./images/slider-img.png);
+    background-repeat: no-repeat;
+    float:right
+}
+.contactus
+{
+
+    width: 24.7%;
+    height: 10.2%;
+    margin-left: 73px;
+    margin-top: 37px;
+    background-color:#db4566;
+    border-radius: 5px;
+    padding-top: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    text-align:center;
+    color: white;
+}
+/*second page starts*/
+.secondpage
+{
+    width:99.7%;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0;
+}
+.banner2
+{
+    width: 95%;
+    height: 798px;
+}
+.products
+{
+    width: 30%;
+    height: 50px;
+    font-size: 32px;
+    font-weight: 700;
+    text-align:center;
+    margin-top: 85px;
+}
+.picbox
+{
+    width: 100%;
+    height:750px ;
+    margin-top: 46px;
+}
+.picrow1 , .picrow2
+{
+    width: 90%;
+    height: 290px;
+    margin-right:54px;
+    margin-left: 66px;
+}
+.picrow2
+{
+    margin-top: 28px;
+}
+.pic1 , .pic2 , .pic3 , .pic4 , .pic5 , .pic6 , .pic7 , .pic8
+{
+    background-color: #eeeeee;
+}
+.pic1
+{
+    margin-right: 27px;
+    width: 22.90%;
+    height: 293px;
+    float: left;
+}
+.pic2
+{
+    margin-right: 30px;
+    margin-left: 3px;
+    width: 23%;
+    height: 293px;
+    float: left;
+}
+.pic3
+{
+    width: 22.90%;
+    height: 293px;
+    float: left;
+    margin-right: 3px;
+}
+.pic4
+{
+    margin-right: 4px;
+    margin-left: 2px;
+    width: 23%;
+    height: 293px;
+    float: right;
+}
+.pic5
+{
+    margin-right: 27px;
+    width: 22.90%;
+    height: 292px;
+    float: left;
+}
+.pic6
+{
+    margin-right: 30px;
+    margin-left: 3px;
+    width: 23%;
+    height: 292px;
+    float: left;
+}
+.pic7
+{
+    width: 22.90%;
+    height: 292px;
+    float: left;
+    margin-right: 3px;
+}
+.pic8
+{
+    margin-right: 4px;
+    margin-left: 2px;
+    width: 23%;
+    height: 292px;
+    float: right;
+}
+.viewall
+{
+    width: 17%;
+    height: 36px;
+    margin-top: 47px;
+    background-color:#db4566;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align:center;
+    color: white; 
+    padding-top: 10px;
+}
+.new1 , .new2 , .new3 , .new4 , .new5 , .new6 , .new7 , .new8
+{
+    border-radius: 30px 30px 30px 30px;
+    background:white;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    position: relative;
+  }
+  .newt1 , .newt2 , .newt3 , .newt4 , .newt5 , .newt6 , .newt7 , .newt8
+{
+    width: 30px;
+    height: 20px;
+    padding-right: 3px;
+    padding-left: 1px;
+    font-size: 15px;
+    text-align: center;
+}
+.newt1 , .newt2 , .newt3 , .newt4
+{
+    padding-top: 13px;
+}
+.newt5 , .newt6 , .newt7 , .newt8
+{
+    padding-top: 12px;
+}
+.ring1
+  {
+    width: 8%;
+    height: 145px;
+    background-image: url(./images/p1.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 76px;
+  }
+.watch1
+{
+    width: 6%;
+    height: 145px;
+    background-image: url(./images/p2.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position:absolute;
+    margin-left: 92px;
+}
+.teddy1
+{
+    width: 10%;
+    height: 145px;
+    background-image: url(./images/p3.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 63px; 
+}
+.flower1
+{
+    width: 12%;
+    height: 145px;
+    background-image: url(./images/p4.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 50px; 
+}
+.teddy2
+{
+    width: 9.7%;
+    height: 145px;
+    background-image: url(./images/p5.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 64px;   
+}
+.flower2
+{
+    width: 9%;
+    height: 145px;
+    background-image: url(./images/p6.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 69px; 
+}
+.watch2
+{
+    width: 8.1%;
+    height: 145px;
+    background-image: url(./images/p7.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 76px;  
+}
+.ring2
+{
+    width: 7.5%;
+    height: 146px;
+    background-image: url(./images/p8.png);
+    background-size: cover;
+    position:absolute;
+    margin-left: 80px;  
+}
+.pictext1 , .pictext2 , .pictext3 , .pictext4 , .pictext5 , .pictext6 , .pictext7 , .pictext8
+{
+    margin: 0 auto;
+    width: 95%;
+    height: 30px;
+    margin-top:192px;
+} 
+.Productname1 , .Productname2 , .Productname3 , .Productname4 , .Productname5 , .Productname6 , .Productname7 , .Productname8  
+{
+    height: 20px;
+    float: left;
+    font-weight: 8px;
+    color: black;
+}
+.Productname1
+{
+    width: 17%; 
+    padding-right:110px; 
+}
+.Productname2
+{
+    width: 24%;
+}
+.Productname3 
+{
+    width: 39%;
+}
+.Productname4
+{
+    width: 52%;
+}
+.Productname5
+{
+    width: 38.30%;
+}
+.Productname6
+{
+    width: 51%;
+}
+.Productname7
+{
+    width: 23%;
+}
+.Productname8
+{
+    width: 16%;
+    padding-right:110px; 
+}
+.price1 , .price2 , .price3 , .price4 , .price5 , .price6 , .price7 , .price8
+{
+    margin: 0 auto;
+    height: 20px;
+    float: right;
+}
+.price1 
+{
+    width: 35%;
+}
+.price2
+{
+    width: 35.1%;
+}
+.price3
+{
+    width: 31.72%;
+}
+.price4 , .price5
+{
+    width: 31%;
+}
+.price6
+{
+    width: 30.60%;
+}
+.price7 , .price8
+{
+    width: 35.5%;
+}
+.p
+{
+color: #db4f66;
+font-weight: 500;
+}
+.t , .Productname1 , .Productname2 , .Productname3 , .Productname4 , .Productname5 , .Productname6 , .Productname7 , .Productname8
+{
+    color: black;
+  /*font-size: 16px;*/
+    font-weight: 500;
+    text-align:center;
+}
+/*page 3 starts */
+.page3
+{
+    width:99.7%;
+    height:550px;
+    margin: 0 auto;
+    padding: 0;   
+}
+.banner3
+{
+    width:94.1%;
+    height: 459px;
+    margin-top: 87px;
+    background-color: #7fd7ed;
+    border-radius: 15px;
+}
+.imagebox
+{
+    width:50%;
+    height: 452px;
+    float: left;
+}
+.image2
+{
+    width:91%;
+    height: 400px;
+    background-image: url(./images/saving-img.png);
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.page3contbox
+{
+    width:46.80%;
+    height: 452px;
+    float:right;   
+}
+.heading
+{
+    width:70%;
+    height: 80px;
+    font-weight:100;
+    font-size: 21.30px;
+    text-align:left;
+    color: white; 
+    margin-top: 112px;
+    margin-left:0px ;
+    line-height:39px; 
+}
+.page3content
+{
+    width: 96%;
+    height: 90px; 
+    margin-left:0px;
+    margin-top:11px ;
+    text-align: left;
+    line-height:24px;
+    font-size: 16px;
+    font-weight: 400; 
+    color: white; 
+}
+.buysee
+{
+    width: 60%;
+    height: 10.2%;
+    margin-left:0px;
+    margin-top:46px ;
+}
+.buynow
+{
+    border-style: solid;
+    border-width: 1px ;
+    border-color: #109dbd;
+    width: 46.10%;
+    height: 34px;
+    float: left;
+    font-weight:400;
+    font-size: 16px;
+    text-align:center;
+    color:white;
+    padding-top: 10px;
+    background-color: #109dbd;
+}
+.seemore
+{
+    width: 46.80%;
+    height: 36px; 
+    float: right;
+    font-weight:400;
+    font-size: 16px;
+    text-align:center;
+    padding-top: 10px;
+    margin-right: 13px;
+    background-color:  white; 
+}
+.banner4container
+{
+    width:99.7%;
+    height: 400px;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 0;
+}
+.banner4
+{
+    width:94.1%;
+    height: 448px;
+}
+.whyshop
+{
+    width: 36%;
+    height: 12%;
+    color:#101010;
+    font-weight: 700;
+    font-size: 32px;
+    text-align:center;
+}
+.whyshopcont
+{
+    margin-top: 38px;
+    width:90.5%;
+    height: 212px;  
+}
+.deliverybox , .shipingbox , .qualitybox
+{
+    width:31.6%;
+    height: 216px; 
+    background-color: #f9f8f7; 
+    margin-top:4px;
+    border-radius: 5px;
+}
+.deliverybox , .shipingbox
+{
+    float: left;
+}
+.qualitybox
+{
+    float: right;
+}
+.deliverybox
+{
+    margin-right: 30px;
+}
+.logo1  
+{
+    width: 22%;
+    height: 55px;
+    background-image: url(./images/truck.svg);
+    margin-top: 24.9px;
+    margin-left: 152px;
+}
+.logo2
+{
+    width: 20%;
+    height: 55px;
+    background-image: url(./images/free.svg);
+    margin-top: 24.9px;
+    margin-left: 152px;
+}
+.logo3
+{
+    width: 25%;
+    height: 60px;
+    background-image: url(./images/high-quality.svg);
+    margin-top: 14px;
+    margin-left: 152px;
+}
+.logo1 , .logo2 , .logo3
+{
+    background-repeat: no-repeat;
+}
+.fastdelivery , .freeshiping , .bestquality
+{
+    width: 50%;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 12px;
+    font-weight: 500;
+    color: #101010;
+}
+.variations1 , .variations2 , .variations3
+{
+    width: 90%;
+    height: 60px;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+    line-height: 24px;
+}
+/*page 4 starts*/
+.page4
+{ 
+    width:99.7%;
+    height: 650px;
+    margin: 0 auto;
+    padding: 0;
+}
+.page4banner5
+{
+    width:94.1%;
+    height: 650px;
+    background-color:#6929a5;
+    border-radius: 15px;
+    margin-top: 2px;
+}
+.balloonimage
+{
+
+    width:37.30%;
+    height: 540px;
+    background-image: url(./images/gifts.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    float: left;
+}
+.page4banner6
+{
+    width:55.2%;
+    height: 649px;
+    float: right;
+}
+.giftsfor
+{
+     width:70%;
+    height: 80px;
+    font-weight:700;
+    font-size: 32px;
+    text-align:left;
+    color: white; 
+    margin-top: 191px;
+    margin-left:0px ;
+    line-height:38px; 
+}
+.foreveryone
+{
+    width: 94%;
+    height: 90px; 
+    margin-left:0px;
+    margin-top:10px ;
+    text-align: left;
+    line-height:24px;
+    font-size: 16px;
+    font-weight: 400; 
+    color: white; 
+}
+.page4buysee
+{
+    width: 51%;
+    height: 10.2%;
+    margin-left:0px;
+    margin-top:46px ;
+}
+.buynowpage4
+{
+   
+    border-style: solid;
+    border-width: 1px ;
+    border-color: #9242dd;
+    width: 46.10%;
+    height: 34px;
+    float: left;
+    font-weight:400;
+    font-size: 16px;
+    text-align:center;
+    padding-top: 10px;
+    background-color:white ;  
+} 
+.seemorepage4
+{
+    width: 46.80%;
+    height: 36px; 
+    float: right;
+    font-weight:400;
+    font-size: 16px;
+    text-align:center;
+    color:white;
+    padding-top: 10px;
+    margin-right: 13px;
+    background-color:#9242dd  ; 
+}
+/*page 5 starts*/
+.page5
+{
+    width:99.7%;
+    height: 700px;
+    margin: 0 auto;
+    padding: 0;
+}
+.page5banner7
+{
+    width:87%;
+    height: 600px;
+    margin-top: 82px;
+}
+.page5contactus
+{
+    width:19%;
+    height: 50px;
+    font-weight:800;
+    font-size: 32px;
+    text-align:center;
+    margin-right: 81%;
+    margin-left: -9px;
+}
+.map
+{
+    width:58.6%;
+    height: 549px;
+    margin-top: 31px; 
+    margin-left: -2px;
+    float: left;
+    background-color: #dddddd;
+}
+.form
+{
+    width:40.90%;
+    height: 548px;
+    margin-top: 31px;
+    float: right; 
+    background-color: white;
+}
+.name , .email , .phone ,  .message
+{
+    border-style: solid;
+    border-width: 1px;
+    width:88.4%;
+}
+.name
+{
+    height:37px;
+    margin-top: 45px;
+    margin-right: 17px;
+    padding-left: 25px;
+    padding-top: 11px;
+}
+.email
+{
+    height: 37px;
+    margin-right: 17px;
+    margin-top: 25px;
+    padding-left: 25px;
+    padding-top: 11px;
+}
+.phone
+{
+    height: 37px;
+    margin-top: 25px;
+    margin-right: 17px;
+    padding-left: 25px;
+    padding-top: 11px;
+}
+.message
+{
+    height: 72px;
+    margin-top: 25px;
+    margin-right: 17px;
+    padding-left: 25px;
+    padding-top: 46px;
+}
+.send
+ {
+    width: 27.5%;
+    height: 36px;
+    margin-top: 64px;
+    background-color:#db4566;
+    font-size: 16px;
+    text-align:center;
+    color: white; 
+    padding-top: 14px;
+ }  
+ /*page 6 starts */ 
+.page6
+{
+    width:99.7%;
+    height: 926px;
+    margin: 0 auto;
+    padding: 0;
+}
+.page6testimonial
+{
+    width:19%;
+    height: 50px;
+    font-weight:700;
+    font-size: 32px;
+    text-align:center;
+    margin-top:15px;
+}
+.page6banner8
+{
+    border-style: dashed;
+    border-color: white;
+    width:88.4%;
+    height: 260px;
+    margin-top: 4px;
+}
+.lefticon
+{
+    width:4%;
+    height: 124px;
+    float: left;  
+    margin-top:84px;
+    background-color: #db4f66;
+}
+.rochakbanner9
+{
+    width:91.6%;
+    height: 260px;
+    float: left;  
+    margin-top:33px;
+}
+.righticon
+{
+    width:4%;
+    height: 124px;
+    margin-top:84px;
+    float: right;  
+    background-color: #db4f66;
+}
+.rochak
+{
+    width:19%;
+    height: 29px;
+    font-weight:600;
+    font-size: 20px;
+    color: #db4f66;
+    margin-left: 24px;
+    margin-top: 21px;
+}
+.editersnow
+{
+    width:94.6%;
+    height: 130px;
+    float: left;  
+    font-weight:400;
+    font-size: 16px;
+    color: #101010;
+    margin-top:1px; 
+    margin-left:22px; 
+}
+.default
+{
+    width:19%;
+    height: 29px;
+    font-weight:400;
+    font-size: 15px;
+    color: #bfc0c0;  
+    margin-left: 23.10px;
+    margin-top: 3px;
+}
+.page6banner10
+{
+    width:93.9%;
+    height: 435px; 
+    margin-top: 126px;
+    background-color: #2d2d2d;
+}
+.iconbox
+{
+    border-style: dashed;
+    width: 27.5%;
+    height: 36px;
+    margin-top: 20px; 
+    color: white;
+}
+.contentrow
+{
+    width: 91.5%;
+    height: 180px;
+    margin-top: 110px; 
+    color: white;
+}
+.rowcont1 , .rowcont2 ,.rowcont3 
+{
+    width: 24.5%;
+    height: 170px;
+    float: left;
+}
+.rowcont2 
+{
+    width: 25.5%;
+    height: 170px;
+    float: left;
+}
+.rowcont3
+{
+    width: 23.5%;
+    height: 170px;
+    float: left;
+}
+.rowcont4
+{
+    width: 23.5%;
+    height: 180px;
+    float: right;
+    margin-right: 12px;
+}
+.page6aboutus
+{
+    width: 33%;
+    height: 36px;
+    margin-right: 65.1%;
+    margin-top:6px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align:left;
+    color: white; 
+}
+.thepainitself1 
+{
+    width: 90%;
+    height: 100px;
+    margin-right: 8.1%;
+    margin-top: 14px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    color: #cbc9c9; 
+    line-height:24px;
+
+}
+.newsletter
+{
+    width: 33%;
+    height: 36px;
+    margin-right: 61.6%;
+    margin-top:6px;
+    font-size: 20px;
+    font-weight: 500;
+    text-align:left;
+    color: white; 
+}
+.enderemail
+{
+    border-width: 1px;
+    color:#101010;
+    width: 84%;
+    height: 34px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    padding-top: 7px;
+    padding-left:15px;
+    background-color: white;
+}
+.subscribe
+{
+    border-width: 1px;
+    color:white;
+    width: 52%;
+    height: 34px;
+    margin-top: 15px;
+    margin-right:42.6%;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:center;
+    padding-top: 7px;
+    /*padding-left:15px;*/
+    background-color: #f89cab;
+
+}
+.thepainitself2
+{
+    width: 92%;
+    height: 100px;
+    margin-right: 2.1%;
+    margin-top: 14px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    color: #cbc9c9; 
+    line-height:24px;
+}
+.needhelp
+{
+    width: 47%;
+    height: 36px;
+    margin-right: 47.1%;
+    margin-top:6px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align:left;
+    color: white; 
+}
+.page6cantactus
+{
+    width: 47%;
+    height: 36px;
+    margin-right: 47.1%;
+    margin-top:6px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align:left;
+    color: white;
+}
+.location
+{
+    width: 70%;
+    height: 36px;
+    margin-right: 24.1%;
+    margin-top:6px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    color: #cbc9c9; 
+}
+.page6phone
+{
+    width: 70%;
+    height: 36px;
+    margin-right: 24.1%;
+    margin-top:6px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    color: #cbc9c9; 
+}
+.gmail
+{
+    width: 70%;
+    height: 36px;
+    margin-right: 24.1%;
+    margin-top:6px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align:left;
+    color:#cbc9c9; 
+}
+.copyrights
+{
+    width: 42%;
+    height: 36px;
+    color:#cbc9c9;
+    margin-right: 24.1%;
+    margin-top:58px;
+}
+/*page 6 ends*/
+@media screen and (max-width: 425px)
+{
+    .Gifts
+    {
+        height: 32px;
+        font-size: 28px;
+        font-weight: 700;
+        margin-left: 24px;
+        margin-top:18px;
+    }
+    .navbar , .menubar
+    {
+        display: none;
+    }
+    .banner1
+    {
+        width: 88.8%;
+        height: 1239px;
+        margin-left: 24px;
+        margin-top: 24.6px;
+    }
+    .welcome
+    {
+        font-size: 24px;
+        width: 106%;
+        margin-left: 28px;
+        margin-top: 70px;
+        line-height: 58px;
+    }
+    .content
+    {
+        height: 603px;
+    }
+    .after
+    {
+        width: 133%;
+        line-height: 24px;
+        margin-left: 28px;
+        margin-top:45px ;
+        font-size: 16px;
+    }
+    .contactus
+    {
+        width: 82.7%;
+        height: 36px;
+        margin-left: 28px;
+        margin-top: 157px;
+    }
+    .image
+    {
+        width: 74%;
+        height: 564px;
+        margin-right: 50px;
+        background-position:center;
+        float:inline-end;
+    }
+    .secondpage
+    {
+        height:2765px;
+    }
+    .products
+    {
+        width: 76%;
+        height: 46px;
+        margin-top: 85px;
+    }
+    .picbox
+    {
+        width: 99%;
+        height: 2600px;
+        margin-top: 50px;
+    }
+    .picrow1
+    {
+        width: 100%;
+        height: 1237px;
+        margin: 0 auto;
+    }
+    .picrow2
+    {
+        width: 100%;
+        height: 1260px;
+        margin: 0 auto;
+    }
+    .pic1 , .pic2 , .pic3 , .pic4 , .pic5 , .pic6 , .pic7 , .pic8
+    {
+        float: none;
+    }
+    .pic1 , .pic2 , .pic3 , .pic4 , .pic5 , .pic6 , .pic7 , .pic8 
+    {
+        margin-left: 1px;
+        width: 99.6%;
+        height: 292px;  
+        margin-top: 23px;
+        padding-top: 0.1px;
+    }
+    .ring1 , .ring2 , .teddy1 , .teddy2 , .flower1 , .flower2 , .watch1 , .watch2
+    {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .ring1
+    {
+        width: 29%;
+        height: 145px;
+        margin-left:143px;
+    }
+    .watch1
+    {
+        
+        width: 18.5%;
+        height: 151px;
+        margin-left:158px;
+    }
+    .teddy1
+    {
+        width: 32.1%;
+        height: 145px;
+        margin-left:129px;
+    }
+    .flower1
+    {
+        width: 38.1%;
+        height: 169px;
+        margin-left:116px;
+    }
+    .teddy2
+    {
+        width: 31%;
+        height: 144px;
+        margin-left:132px;
+    }
+    .flower2
+    {
+        width: 29%;
+        height: 145px;
+        margin-left:135px;
+    }
+    .watch2
+    {
+        width: 25.7%;
+        height: 145px;
+        margin-left:143px;
+    }
+    .ring2
+    {
+        width: 24%;
+        height: 145px;
+        margin-left:147px;
+    }
+    .pictext1 , .pictext2 , .pictext3 , .pictext4 , .pictext5 , .pictext6 , .pictext7 , .pictext8
+    {
+        width: 95%;
+    }
+    .Productname1 , .Productname2 , .Productname3 , .Productname4 , .Productname5 , .Productname6 , .Productname7 , .Productname8
+    {
+        width: 33%;
+        text-align: left;
+    } 
+    .price1 , .price2  , .price3 , .price4  , .price5 , .price6  , .price7 , .price8  
+    {
+        text-align: right;
+    }
+    .viewall
+    {
+        margin-top: 22px;
+        width: 55.1%; 
+    }
+    .page3
+    {
+        margin: 0 auto;
+        height: 726px;
+    }
+    .banner3
+    {
+        width:89%;
+        height: 717px;
+        margin-top: 9px;
+        border-radius: 13px;
+    }
+    .page3contbox
+    {
+        float: left;
+        position: absolute;
+        width:87%;
+        height: 452px;
+    }
+    .heading
+    {
+        width:80%;
+        height: 80px;
+        margin-top: 45px;
+        margin-left: 20px;
+        line-height: 38px;
+    }
+    .page3content
+    {
+        width: 94%;
+        height: 90px; 
+        margin-left:20px;
+        margin-top:10px ;
+        line-height: 24px;   
+    }
+    .buysee
+    {
+        width: 60%;
+        height: 10.2%;
+        margin-top:118px ;
+    }
+    .buynow , .seemore
+    {
+        float: none;
+        padding: 10px 30px 0px 30px;
+    }
+    .buynow
+    {
+        width: 46.30%;
+        height: 34px;
+        margin-left: 20px;
+    }
+    .seemore
+    {
+        margin-top: 10px;
+        margin-left: 20px;
+        width: 47.40%;
+        height: 36px;
+    }
+    .imagebox
+    {
+        position: relative;
+        width:98%;
+        height: 282px;
+        float: right;
+        top: 61.1%;
+    }
+    .image2
+    { 
+        width:87%;
+        height: 224px;
+        margin-top: 57px;
+        margin-left: 33px;
+        background-size: contain;
+    }
+    .banner4container
+    {
+        width:99%;
+        height: 896px;
+    }
+    .banner4
+    {
+        width:99%;
+        height: 896px;
+    }
+    .whyshop
+    {
+        width: 80%;
+        height: 6%;
+        margin-top: 76px;
+    }
+    .whyshopcont
+    {
+        margin-top: 38px;
+        width:99%;
+        height: 700px;  
+    }
+    .deliverybox , .shipingbox , .qualitybox
+    {
+        width:96%;
+        height: 215px; 
+        margin-top:42px;
+        margin-right: 8px;
+        padding-top: 1px;
+        float: none;
+    }
+    .logo1  
+    {
+        width: 22%;
+        height: 55px;
+        margin-left: 169px;
+    }
+    .logo2
+    {
+        width: 20%;
+        height: 55px;
+        margin-top: 24.9px;
+        margin-left: 169px;
+    }
+    .logo3
+    {
+        width: 25%;
+        height: 60px;
+        margin-top: 14px;
+        margin-left: 169px;
+    }
+    .fastdelivery , .freeshiping , .bestquality
+    {
+        width: 50%;
+        height: 30px;
+        margin-top: 12px;
+    }
+    .variations1 , .variations2 , .variations3
+    {
+        width: 90%;
+        height: 60px;
+        margin-top: 5px;
+        line-height: 24px;
+    }
+    .page4
+    {
+        width:99.7%;
+        height: 923px;
+    }
+    .page4banner5
+    {
+        width:89%;
+        height: 901px;
+        margin-top: 21px;
+        padding-top: 1px;
+    }
+    .balloonimage , .page4banner6
+    {
+        float: none;
+    }
+    .balloonimage
+    {
+    
+        width:84%;
+        height: 362px;
+        margin-top: 45px;
+        margin-left: 30px;
+    }
+    .page4banner6
+    {
+        width:98%;
+        height: 477px;
+    }
+    .giftsfor
+    {
+        width:74%;
+        margin-top: 43px;
+        margin-left:16px ;
+        line-height:39px; 
+    }
+   .foreveryone
+    {
+        width: 92%;
+        height: 167px; 
+        margin-left:16px;
+        margin-top:11px ;
+    }
+    .page4buysee
+    { 
+        width: 43%;
+        height: 15%;
+        margin-top:40px ;
+    }
+    .buynowpage4 , .seemorepage4
+    {
+        float: none;
+        
+    }
+    .buynowpage4
+    {
+        width: 46.10%;
+        height: 36px;
+        padding: 10px 46px 0px 46px;
+        margin-left: 15px;
+    } 
+    .seemorepage4
+    {
+        width: 46.80%;
+        height: 36px; 
+        margin-top: 9px;
+        margin-left: 16px;
+        padding: 10px 45px 0px 46px;
+    }
+    .page5
+    {
+        width:98%;
+        height:1005px;
+    }
+    .page5banner7
+    {
+        width:99%;
+        height: 650px;
+        margin-top: 52px;
+    }
+    .page5contactus
+    {
+        
+        width:52%;
+        height: 50px;
+        margin-left: 15px;
+        margin-top:64px;
+        font-weight: 700;
+    }
+    .map , .form
+    {
+        float: none;
+    }
+    .map
+    {
+        width:91%;
+        height: 375px;
+        margin-top: 31px; 
+        margin-left:18px;
+    }
+    .form
+    {
+
+        width:90%;
+        height: 548px;
+        margin-top: 31px;
+    }
+    .name , .email , .phone ,  .message
+    {
+       width:83.4%;
+    }
+    .send
+    {
+        width: 36%;
+        height: 38px;
+        margin-top: 60px;
+        padding-top: 12px;
+    }  
+    .page6 
+    {
+        width:99%;
+        height: 926px;
+    }
+    .page6testimonial
+    {
+        width:51%;
+        margin-top:81px;
+    }
+    .page6banner8
+    {
+        width:99%;
+        height: 430px;
+    }
+    .lefticon
+    {
+        display: none;
+        width:4%;
+        height: 124px;
+        float: left;  
+        margin-top:84px;
+        background-color: #db4f66;
+    }
+    .rochakbanner9
+    {   
+        width:89.6%;
+        height: 411px;
+        margin-top:35px;
+        margin-left: 18px;
+    }
+.righticon
+{
+    display: none;
+    width:4%;
+    height: 124px;
+    margin-top:84px;
+    float: right;  
+    background-color: #db4f66;
+}
+    .rochak
+    {
+        margin-left: 25px;
+        margin-top: 17px;
+    }
+    .editersnow
+    {
+        width:87.6%;
+        height: 275px;
+        margin-top:7px; 
+        margin-left:25px; 
+        line-height: 24px;
+    }
+    .default
+    {
+        width:38%;
+        margin-left: 25.1px;
+    }
+.page6banner10
+{
+    width:89.4%;
+    height: 952px; 
+    margin-top: 187px;
+}
+/*.iconbox
+{
+    border-style: dashed;
+    width: 27.5%;
+    height: 36px;
+    margin-top: 20px; 
+    color: white;
+}*/
+.contentrow
+{
+    width: 91.5%;
+    height: 800px;
+    margin-top: 110px; 
+    color: white;
+}
+.rowcont1 , .rowcont2 , .rowcont3 , .rowcont4 
+{
+    float: none;
+}
+.rowcont1
+{
+    width: 80.5%;
+    height: 170px;
+}
+.rowcont2 
+{
+    width: 100.5%;
+    height: 170px;
+}
+.rowcont3
+{
+    width: 80.5%;
+    height: 170px;
+}
+.rowcont4
+{
+    width: 80.5%;
+    height: 190px;
+    margin-right: 12px;
+}
+.page6aboutus
+{
+    width: 35%;
+    margin-right: 33%;
+    margin-top:116px;
+    text-align:center;
+}
+.thepainitself1
+{
+    width: 90%;
+    margin-right: 8.1%;
+    margin-top: 14px;
+}
+.newsletter
+{
+    width: 35%;
+    margin-right: 30.5%;
+    margin-top:-11px;
+    }
+.enderemail
+{
+    width: 96.5%;
+    height: 33px;
+    padding-left:11px;
+}
+.subscribe
+{
+    width: 44.5%;
+    height: 33px;
+    margin-right:27.9%;
+    }
+.thepainitself2
+{
+    width: 92%;
+    height: 100px;
+    margin-right: 2.1%;
+    margin-top: 14px;
+    line-height:24px;
+}
+.needhelp
+{
+    margin-right:20.2%;
+    margin-top: -17px;
+}
+.page6cantactus
+{
+    margin-right:32.1%;
+    margin-top: -10px;
+}
+.location , .page6phone , .gmail
+{
+    margin-right:17.3%;
+}
+.location
+{
+    margin-top: 28px;
+}
+.copyrights
+{
+    width: 74%;
+    height: 50px;
+    margin-right: 13.1%;
+    margin-top:-76px;
+    text-align: center;
+}
+}
